@@ -1,16 +1,17 @@
+
 const settings = {
-  packname: 'Knight Bot',
+  packname: 'Zeyno Bot',
   author: '‎',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '919876543210', //Set your number here without + symbol, just add country code & number without any space
+  botName: "Zeyno bot Bot",
+  botOwner: 'Endy', // Your name
+  ownerNumber: '212656245701', '85253382438', '212693877842', '5511967898841', '393926427789', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
-  version: "3.0.7",
-  updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
+  version: "3.0",
+  updateZipUrl: "https://github.com/3ndyq1111-bot/Endy-bot/archive/refs/heads/main.zip",
 };
 
 module.exports = settings;
