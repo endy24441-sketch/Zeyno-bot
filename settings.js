@@ -11,7 +11,7 @@ const settings = {
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "3.0",
-  updateZipUrl: "https://github.com/3ndyq1111-bot/Endy-bot/archive/refs/heads/main.zip",
+  updateZipUrl: "https://github.com/endy24441-sketch/Zeyno-bot/archive/refs/heads/main.zip",
 };
 
 module.exports = settings;
